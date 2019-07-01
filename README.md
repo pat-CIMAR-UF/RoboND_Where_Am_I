@@ -17,6 +17,8 @@ $ source devel/setup.bash
 $ roslaunch my_robot world.launch
 
 # Open another terminal
+$ cd catkin_ws
+$ source devel/setup.bash
 $ roslaunch my_robot amcl.launch
 ```
 
