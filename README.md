@@ -4,7 +4,7 @@ This the project of Udacity Robotics Software Development Nanodegree **project o
 
 # Installation
 ```
-$ cd (catkin_ws)/src
+$ cd catkin_ws/src
 $ git clone https://github.com/pat-CIMAR-UF/RoboND_Where_Am_I.git
 $ cd ..
 $ catkin_make
