@@ -20,6 +20,12 @@ $ roslaunch my_robot world.launch
 $ roslaunch my_robot amcl.launch
 ```
 
-# Misc
-The parameters in [amcl.launch](https://github.com/pat-CIMAR-UF/RoboND_Where_Am_I/blob/master/my_robot/launch/amcl.launch) is meant to be tuned to fit in your case.
+# Result
+The parameters in [amcl.launch](https://github.com/pat-CIMAR-UF/RoboND_Where_Am_I/blob/master/my_robot/launch/amcl.launch) is meant to be tuned to fit your case.
+
+The outcomes are acceptable, for the robot to localizing itself with laserscan and the map knowledge.
+Inline-style: 
+![alt text](https://github.com/pat-CIMAR-UF/RoboND_Where_Am_I/blob/master/screenshot/step0.png "Logo Title Text 1")
+
+
 
